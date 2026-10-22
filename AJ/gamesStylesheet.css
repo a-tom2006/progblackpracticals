@@ -2,6 +2,13 @@ html{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 
+body{
+    background-color: #4A412A;
+}
+li h2{
+    color: pink;
+}
+
 #titleHeading {
     background-image: linear-gradient(to right, #d9ff00, #ff00d0);
     background-repeat: no-repeat;
@@ -9,4 +16,5 @@ html{
     font-style: italic;
     background-position: center;
     text-align: center;
+    color: black;
     }
