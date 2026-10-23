@@ -9,6 +9,22 @@ li h2{
     color: pink;
 }
 
+.container{
+    display: grid;
+    grid-template-columns: 20px auto auto;
+    padding: 10px;
+}
+
+.container div{
+    color: white;
+    border-color: white;
+}
+
+#image{
+    border: 20px;
+    border-color: white;
+}
+
 #titleHeading {
     background-image: linear-gradient(to right, #d9ff00, #ff00d0);
     background-repeat: no-repeat;
